@@ -1,16 +1,96 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- bootstrap cdn font awesome 검색 -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+  <title>Chats</title>
+</head>
+<body>
+  <header>
+    <div class="header__top">
+      <div class="header__column">
+        <!-- plane icon -->
+        <i class="fas fa-plane-departure"></i>
+        <i class="fas fa-wifi"></i>
+      </div>
+      <div class="header__column">
+        <!-- <span class="header__time">17:01</span> -->
+        17:01
+      </div>
+      <div class="header__column">
+        <i class="fas fa-moon"></i>
+        <i class="fab fa-bluetooth"></i>
+        <span class="header__battery">48%
+          <!--batter icon-->
+          <i class="fas fa-battery-three-quarters"></i>
+        </span>
+      </div>
+    </div>
+    <div class="header__bottom">
+      <div class="header__column">
+        <span class="header__text">Edit</span>
+      </div>
+      <div class="header__column">
+        <span class="header__text">Chats<i class="fas fa-arrow-down"></i></span>
+      </div>
+    </div>
+  </header>
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="author" content="youngsoo choi">
-    <meta name="descripton" content="welcome to my kakao clone">
-    <title>This is my title</title>
-  </head>
+  <main class="chats">
+    <div class="search-bar">
+      <i class="fas fa-search"></i>
+      <input type="text" placeholder="Find friends, chats, Plus Friends">
+    </div>
+    <ul class="chats__list">
+      <li class="chats__chat">
+        <div class="chat__content">
+          <img src="image/avatar.jpg" alt="">
+          <div class="chat__preview">
+            <h3 class="chat__user">Lynn</h3>
+            <span class="chat__last-message">안녕. 이건 시험 메시지야</span>
+          </div>
+        </div>
+        <span class="chat__date-time">
+          15:55
+        </span>
+      </li>
+      <li class="chats__chat">
+        <div class="chat__content">
+          <img src="image/avatar.jpg" alt="">
+          <div class="chat__preview">
+            <h3 class="chat__user">KakaoTalks</h3>
+            <span class="chat__last-message">you logged into kakaoTalk PC form the PC</span>
+          </div>
+        </div>
+        <span class="chat__date-time">
+          July 29
+        </span>
+      </li>
+    </ul>
+    <div class="chat-btn">
+      <i class="fas fa-comment"></i>
+    </div>
 
-  <body>
-    <h1>This is my big title</h1>
-    <h6>This is my small title</h6>
-  </body>
+  </main>
 
+
+
+  <nva class="tab-bar">
+    <a href="index.html" class="tab-bar" >
+      <i class="fas fa-user"></i><span class="tab-bar__title">Friends</span>
+    </a>
+    <a href="chats.html" class="tab-bar" class="tab-bar__tab-selected">
+      <i class="fas fa-comment"></i><span class="tab-bar__title">Chats</span>
+    </a>
+    <a href="find.html" class="tab-bar">
+      <i class="fas fa-search"></i><span class="tab-bar__title">Find</span>
+    </a>
+    <a href="more.html" class="tab-bar">
+      <i class="fas fa-ellipsis-h"></i><span class="tab-bar__title">More</span>
+    </a>
+  </nva>
+</body>
 </html>
