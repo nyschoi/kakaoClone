@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +9,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
   <title>Find</title>
 </head>
+
 <body>
   <header>
     <div class="header__top">
@@ -37,20 +39,47 @@
         <span class="header__text">Find</span>
       </div>
     </div>
-    <nva class="tab-bar">
-      <a href="index.html" class="tab-bar" >
-        <i class="fas fa-user"></i><span class="tab-bar__title">Friends</span>
-      </a>
-      <a href="chats.html" class="tab-bar" >
-        <i class="fas fa-comment"></i><span class="tab-bar__title">Chats</span>
-      </a>
-      <a href="find.html" class="tab-bar" class="tab-bar__tab-selected">
-        <i class="fas fa-search"></i><span class="tab-bar__title">Find</span>
-      </a>
-      <a href="more.html" class="tab-bar">
-        <i class="fas fa-ellipsis-h"></i><span class="tab-bar__title">More</span>
-      </a>
-    </nva>
   </header>
+  <main class="find">
+    <section class="find__option">
+      <div class="find__option">
+        <i class="fa fa-address-book fa-lg"></i>
+        <span class="find__option-title">Find</span>
+      </div>
+      <div class="find__option">
+        <i class="fa fa-qrcode fa-lg"></i>
+        <span class="find__option-title">QR Code</span>
+      </div>
+      <div class="find__option">
+        <i class="fa fa-mobile fa-2x"></i>
+        <span class="find__option-title">Shake</span>
+      </div>
+      <div class="find__option">
+        <i class="fa fa-envelope-open fa-lg"></i>
+        <span class="find__option-title">Invite via SMS</span>
+      </div>
+    </section>
+    <section class="find__recommend">
+      <h6 class="recommend__title">Recommended Friends</h6>
+      <div class="recommend__none">
+        <span class="recommend__text">You have no recommended friends</span>
+      </div>
+    </section>
+  </main>
+  <nva class="tab-bar">
+    <a href="index.html" class="tab-bar">
+      <i class="fas fa-user"></i><span class="tab-bar__title">Friends</span>
+    </a>
+    <a href="chats.html" class="tab-bar">
+      <i class="fas fa-comment"></i><span class="tab-bar__title">Chats</span>
+    </a>
+    <a href="find.html" class="tab-bar" class="tab-bar__tab-selected">
+      <i class="fas fa-search"></i><span class="tab-bar__title">Find</span>
+    </a>
+    <a href="more.html" class="tab-bar">
+      <i class="fas fa-ellipsis-h"></i><span class="tab-bar__title">More</span>
+    </a>
+  </nva>
 </body>
+
 </html>
