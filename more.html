@@ -7,18 +7,17 @@
   <!-- bootstrap cdn font awesome 검색 -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
   <title>More</title>
+  <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-  <header>
+  <header class="top-header">
     <div class="header__top">
       <div class="header__column">
-        <!-- plane icon -->
         <i class="fas fa-plane-departure"></i>
         <i class="fas fa-wifi"></i>
       </div>
       <div class="header__column">
-        <!-- <span class="header__time">17:01</span> -->
-        17:01
+        <span class="header__time">17:01</span>
       </div>
       <div class="header__column">
         <i class="fas fa-moon"></i>
@@ -31,17 +30,21 @@
     </div>
     <div class="header__bottom">
       <div class="header__column">
+
+      </div>
+      <div class="header__column">
         <span class="header__text">More</span>
       </div>
       <div class="header__column">
         <i class="fas fa-cogs"></i>
       </div>
+
     </div>
   </header>
   <main class="more">
     <header class="more__header">
       <div class="more-header__column">
-        <img src="images/avatar.jpg" alt="">
+        <img src="image/avatar.jpg" alt="">
         <div class="more-header__info">
           <h3 class="more-header__title">
             Niccolas
@@ -129,19 +132,23 @@
       </div>
     </section>
   </main>
-  <nva class="tab-bar">
-    <a href="index.html" class="tab-bar" >
-      <i class="fas fa-user"></i><span class="tab-bar__title">Friends</span>
+  <nav class="tab-bar">
+    <a href="index.html" class="tab-bar__tab" >
+      <i class="fas fa-user"></i>
+      <span class="tab-bar__title">Friends</span>
     </a>
-    <a href="chats.html" class="tab-bar" >
-      <i class="fas fa-comment"></i><span class="tab-bar__title">Chats</span>
+    <a href="chats.html" class="tab-bar__tab" >
+      <i class="fas fa-comment"></i>
+      <span class="tab-bar__title">Chats</span>
     </a>
-    <a href="find.html" class="tab-bar" >
-      <i class="fas fa-search"></i><span class="tab-bar__title">Find</span>
+    <a href="find.html" class="tab-bar__tab" >
+      <i class="fas fa-search"></i>
+      <span class="tab-bar__title">Find</span>
     </a>
-    <a href="more.html" class="tab-bar" class="tab-bar__tab-selected">
-      <i class="fas fa-ellipsis-h"></i><span class="tab-bar__title">More</span>
+    <a href="more.html" class="tab-bar__tab tab-bar__tab--selected">
+      <i class="fas fa-ellipsis-h"></i>
+      <span class="tab-bar__title">More</span>
     </a>
-  </nva>
+  </nav>
 </body>
 </html>
