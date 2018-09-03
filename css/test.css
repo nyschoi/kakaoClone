@@ -16,7 +16,6 @@ flex란?*/
   /*cys*/
   /*align-tiems, text-align: */
 }
-
 .friends__section-row.with-tagline {
   /*  cys
 이부분 html하고 찾아 볼 것*/
@@ -29,9 +28,8 @@ flex란?*/
   padding: 10px 10px;
   border-radius: 5px;
   color: #939393;
-  border: #4DD327;
+  border: #4dd327;
 }
-
 .friends__section-row img {
   width: 40px;
   border-radius: 50%;
