@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"grid-",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"border-",
+				"border-left\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"text-al",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"ASTYLE",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"ASTYE",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"ASTY",
+				"SublimeAStyleFormmatter: Format Current Selection"
+			],
+			[
+				"astyle",
+				"SublimeAStyleFormmatter: Format Current Selection"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sub",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"REMOVE P",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"view.encoding()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cys/Documents/GitHub/kakaoClone"
+	],
+	"file_history":
+	[
+		"/Users/cys/Documents/GitHub/kakao-clone-master/index2.html",
+		"/Users/cys/Documents/GitHub/kakao-clone-master/index.html",
+		"/Users/cys/Documents/GitHub/kakao-clone-master/css/navigation.css",
+		"/Users/cys/Documents/GitHub/kakaoclone-study/CH1.html",
+		"/Users/cys/Dropbox/주간보고sum.R",
+		"/Users/cys/Documents/GitHub/kakao-clone-examples-master/README.md",
+		"/Users/cys/Documents/GitHub/kakao-clone-examples-master/test_sublime.css",
+		"/Users/cys/Documents/GitHub/kakao-clone-examples-master/test_sublime.html",
+		"/Users/cys/Desktop/test.R",
+		"/Users/cys/Documents/GitHub/kakaoClone/find.html",
+		"/Users/cys/Movies/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG.smi",
+		"/Users/cys/Movies/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG.sub",
+		"/Users/cys/Downloads/Brit English - Rosetta Stone 5 macOS/Installation.txt",
+		"/Users/cys/Downloads/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG.smi",
+		"/Users/cys/prog/english/https:::apple-torrent.is:application:rosetta-stone",
+		"/Users/cys/Documents/GitHub/kakaoClone/index.html",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/cys/Documents/test.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/test_sublime.html",
+		"/Users/cys/Documents/dev/opentutorials/2. css/grid.html",
+		"/Users/cys/Documents/dev/opentutorials/2. css/style.css",
+		"/Users/cys/Documents/dev/opentutorials/2. css/box3.html",
+		"/Users/cys/Documents/dev/opentutorials/2. css/mediaquery.html",
+		"/Users/cys/Documents/dev/opentutorials/2. css/2css.html",
+		"/Users/cys/Documents/dev/opentutorials/2. css/box2.html",
+		"/Users/cys/Documents/dev/opentutorials/2. css/1.html",
+		"/Users/cys/Documents/dev/opentutorials/2. css/mediaquery2.html",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/cys/Documents/dev/opentutorials/2. css/3css.html",
+		"/Users/cys/Documents/dev/opentutorials/2. css/box.html",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/Users/cys/Documents/dev/opentutorials/2. css/test.c",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/Users/cys/Downloads/DimmedMonokai.itermcolors.html",
+		"/Users/cys/Downloads/Snazzy.itermcolors",
+		"/Users/cys/Downloads/DimmedMonokai.itermcolors",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/SublimeAStyleFormatter/Default (OSX).sublime-keymap",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/cys/Dropbox/setup/CapsLock2IME.reg",
+		"/Users/cys/Documents/dev/opentutorials/web/test.html",
+		"/Users/cys/Documents/dev/opentutorials/web/1.html",
+		"/Users/cys/Downloads/eiliv-aceron-789896-unsplash.jpg",
+		"/Users/cys/Desktop/1.html",
+		"/Users/cys/Desktop/sound crash(noise continues without stopping)",
+		"/Users/cys/Desktop/indexx.html",
+		"/Users/cys/Desktop/index.html",
+		"/Users/cys/Downloads/첨부파일을 다운받아주시고,",
+		"/Users/cys/Desktop/shortcut.txt",
+		"/Users/cys/Desktop/서브라임 텍스트 단축키 정리.md"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kakaoclone.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
