@@ -1,6 +1,6 @@
-/*.top-header .top-header--transparent {
+.top-header--transparent {
   background-color: transparent;
-}*/
+}
 .profile .profile__header {
   height: 80vh;
   background-image: url('https://s-media-cache-ak0.pinimg.com/736x/60/b0/a7/60b0a7ef623bc2487385bace5d68fc8c--material-wallpapers-android-fantastic-wallpapers.jpg');
