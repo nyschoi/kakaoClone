@@ -4,35 +4,34 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <!-- bootstrap cdn font awesome 검색 -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-  <link rel="stylesheet" href="./css/style.css">
   <title>Profile</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <header class="top-header">
+  <header class="top-header top-header--transparent">
     <div class="header__top">
       <div class="header__column">
-        <!-- plane icon -->
         <i class="fas fa-plane-departure"></i>
         <i class="fas fa-wifi"></i>
       </div>
       <div class="header__column">
-        <!-- <span class="header__time">17:01</span> -->
-        17:01
+        <span class="header__time">18:38</span>
       </div>
       <div class="header__column">
         <i class="fas fa-moon"></i>
         <i class="fab fa-bluetooth"></i>
-        <span class="header__battery">48%
-          <!--batter icon-->
-          <i class="fas fa-battery-three-quarters"></i>
-        </span>
+        <span class="header__battery">66% <i class="fas fa-battery-three-quarters"></i></span>
       </div>
     </div>
     <div class="header__bottom">
       <div class="header__column">
-        <a href="index.html"><i class="fas fa-times"></i></a>
+        <a href="index.html">
+          <i class="fas fa-times"></i>
+        </a>
+      </div>
+      <div class="header__column">
+
       </div>
       <div class="header__column">
         <i class="fas fa-user"></i>
@@ -41,22 +40,26 @@
   </header>
   <main class="profile">
     <header class="profile__header">
-      <img src="image/강백호.gif" alt="">
-      <h3 class="profile__header-title">Nicolas</h3>
-    </header>
-    <input type="text" placeholder="itnicloasme@gmail.com"name="" value="">
-    <div class="profile__acctions">
-      <div class="profile__action">
-        <span class="profile__action-circle">
-          <i class="fas fa-comment" fa-2x ></i>
-        </span>
-        <span class="profile__action-title">My Chatroom</span>
+      <div class="profile__header-container">
+        <img src="image/강백호.gif" alt="">
+        <h3 class="profile__header-title">Nicolas</h3>
       </div>
-      <div class="profile__action">
-        <span class="profile__action-circle">
-          <i class="fas fa-pencil-alt" fa-2x ></i>
-        </span>
-        <span class="profile__action-title">Edit Profile</span>
+    </header>
+    <div class="profile__container">
+      <input type="text" placeholder="itnicloasme@gmail.com">
+      <div class="profile__actions">
+        <div class="profile__action">
+          <span class="profile__action-circle">
+            <i class="fas fa-comment" fa-lg ></i>
+          </span>
+          <span class="profile__action-title">My Chatroom</span>
+        </div>
+        <div class="profile__action">
+          <span class="profile__action-circle">
+            <i class="fas fa-pencil-alt" fa-lg ></i>
+          </span>
+          <span class="profile__action-title">Edit Profile</span>
+        </div>
       </div>
     </div>
   </main>
