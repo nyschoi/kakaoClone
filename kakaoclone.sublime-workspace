@@ -4,6 +4,70 @@
 		"selected_items":
 		[
 			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fle",
+				"flex-end\talign-items"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
 				"min",
 				"min-width\tproperty"
 			],
@@ -40,10 +104,6 @@
 				"meta\tTag"
 			],
 			[
-				"u",
-				"ul\tTag"
-			],
-			[
 				"al",
 				"alt\tAttr"
 			]
@@ -64,16 +124,64 @@
 		"selected_items":
 		[
 			[
-				"pre",
-				"HTMLPrettify"
+				"dif",
+				"Diffy Compare"
 			],
 			[
-				"prett",
-				"HTMLPrettify"
+				"diffy",
+				"Diffy Compare"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"up",
+				"Sync Settings: Upload"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"codefr",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"codefor",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
 			],
 			[
 				"list packa",
@@ -128,10 +236,6 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"list",
-				"Package Control: List Packages"
-			],
-			[
 				"install ",
 				"Package Control: Install Package"
 			],
@@ -144,7 +248,7 @@
 	},
 	"console":
 	{
-		"height": 164.0,
+		"height": 62.0,
 		"history":
 		[
 			"view.encoding()"
@@ -165,6 +269,39 @@
 	],
 	"file_history":
 	[
+		"/Users/cys/Documents/GitHub/kakaoClone/final/css/profile.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/profile.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/index.html",
+		"/Users/cys/Documents/GitHub/kakaoClone/final/css/header.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/header.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/more.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/more.html",
+		"/Users/cys/Documents/GitHub/kakaoClone/find.html",
+		"/Users/cys/Documents/GitHub/kakaoClone/chats.html",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/style.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/find.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/chats.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/friends.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/final/css/more.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/kakaoclone.sublime-project",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/cys/Dropbox/setup/atom 설정.txt",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/test.css",
+		"/Users/cys/Documents/GitHub/kakaoClone/test.html",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/cys/Dropbox/setup/sublime/Packages/pygments/README.md",
+		"/Users/cys/Documents/GitHub/kakaoClone/css/search-bar.css",
+		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 		"/Users/cys/Documents/GitHub/kakao-clone-master/index2.html",
 		"/Users/cys/Documents/GitHub/kakao-clone-master/index.html",
 		"/Users/cys/Documents/GitHub/kakao-clone-master/css/navigation.css",
@@ -174,13 +311,11 @@
 		"/Users/cys/Documents/GitHub/kakao-clone-examples-master/test_sublime.css",
 		"/Users/cys/Documents/GitHub/kakao-clone-examples-master/test_sublime.html",
 		"/Users/cys/Desktop/test.R",
-		"/Users/cys/Documents/GitHub/kakaoClone/find.html",
 		"/Users/cys/Movies/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG.smi",
 		"/Users/cys/Movies/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG.sub",
 		"/Users/cys/Downloads/Brit English - Rosetta Stone 5 macOS/Installation.txt",
 		"/Users/cys/Downloads/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG/Oceans.Eight.2018.1080p.BluRay.H264.AAC-RARBG.smi",
 		"/Users/cys/prog/english/https:::apple-torrent.is:application:rosetta-stone",
-		"/Users/cys/Documents/GitHub/kakaoClone/index.html",
 		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/cys/Documents/test.css",
 		"/Users/cys/Documents/GitHub/kakaoClone/test_sublime.html",
@@ -196,10 +331,7 @@
 		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/cys/Documents/dev/opentutorials/2. css/3css.html",
 		"/Users/cys/Documents/dev/opentutorials/2. css/box.html",
-		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
-		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
 		"/Users/cys/Documents/dev/opentutorials/2. css/test.c",
-		"/Users/cys/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
 		"/Users/cys/Downloads/DimmedMonokai.itermcolors.html",
 		"/Users/cys/Downloads/Snazzy.itermcolors",
 		"/Users/cys/Downloads/DimmedMonokai.itermcolors",
@@ -220,7 +352,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -254,20 +386,15 @@
 			"sheets":
 			[
 			]
-		},
-		{
-			"sheets":
-			[
-			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"input":
 	{
-		"height": 41.0
+		"height": 44.0
 	},
 	"layout":
 	{
@@ -278,18 +405,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -299,6 +419,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.astyle_error_message":
 	{
 		"height": 0.0
@@ -311,7 +435,7 @@
 	"project": "kakaoclone.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -349,7 +473,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 222.0,
+	"side_bar_width": 198.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
