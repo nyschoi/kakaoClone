@@ -5,8 +5,7 @@
   position: fixed;
   width: 100%;
   top: 0;
-  z-index: 2;
-  /*이거 없으면 아이콘이 보이질 않음*/
+  z-index: 2; /*이거 없으면 아이콘이 보이질 않음*/
 }
 .top-header .header__top,
 .top-header .header__bottom {
