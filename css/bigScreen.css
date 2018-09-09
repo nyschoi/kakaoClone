@@ -1,21 +1,18 @@
 .bigScreenText {
   position: fixed;
-
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
-
   background-color: yellow;
-  z-index: 3; /*이거 없으면 아이콘이 보이질 않음*/
+  z-index: 3;
+  /*이거 없으면 아이콘이 보이질 않음*/
   color: white;
   font-weight: 600;
-
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 30px;
   text-align: center;
-
   display: none;
 }
